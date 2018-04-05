@@ -1,1 +1,4 @@
-venus.txt
+*dat
+*out
+git_should_ignore_this_file.docx
+results/
